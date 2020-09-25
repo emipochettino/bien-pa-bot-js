@@ -1,0 +1,19 @@
+{
+  "name": "bien-pa-bot-js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "emipochettino",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
